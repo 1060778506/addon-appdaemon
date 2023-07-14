@@ -1,5 +1,4 @@
-[[# Home Assistant Community Add-on: AppDaemon
+Be from：https://github.com/hassio-addons/addon-appdaemon
 
-[![GitHub Release][releases-shield]][releases]
-![Project Stage][project-stage-shield]
-[![License][license-shield]](LICENSE.md)
+No need to re-download the python library, Alpine package
+不需要重新下载python库，Alpine包
